@@ -69,7 +69,7 @@ const AddBookModal = ({ onClose }) => {
 
           <div>
             <label>Image:</label>
-            <input disabled
+            <input
               type="file"
               accept="image/*"
               onChange={(e) => setImage(e.target.files[0])}

@@ -76,7 +76,7 @@
 
 @media (max-width: 390px) {
     .book-item {
-        width: 133px;
+        width: 132px;
         height: 154px;
     }
     .search-bar {
@@ -86,7 +86,11 @@
     }
     .BookList {
         display: flex;
-        height: 59vh;
+        height: 53vh;
+    }
+    .book-list {
+        display: flex;
+        height: 53vh;
     }
     .genre-filter {
         padding: unset;
@@ -111,5 +115,10 @@
         display: flex;
         align-items: center;
         flex-wrap: wrap;
+    }
+
+    .mybooks .my-book-list .book-item{
+        width: 100px;
+        height: 154px;
     }
 }

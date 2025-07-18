@@ -11,7 +11,6 @@ function Home() {
       <Header />  
       <h1 className="h1">Library</h1>
       <BookList />
-      <Authors />
       <AddBtn />
     </div>
   );
