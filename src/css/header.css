@@ -57,6 +57,14 @@ font-size: 18px;
     color: #000000ab;
 }
 
+.header .logo {
+    height: 23px;
+    width: 57px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 @media (max-width: 390px) {
     .header ul {
         display: none;
