@@ -122,3 +122,17 @@
         height: 154px;
     }
 }
+
+@media (max-width: 390px) {
+    .book-item {
+        width: 129px;
+        height: 154px;
+    }
+}
+
+@media (max-width: 430px) {
+    .book-item {
+        width: 129px;
+        height: 154px;
+    }
+}
