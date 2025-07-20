@@ -19,7 +19,7 @@ const About = () => {
                     The backend is hosted on <a href="https://render.com" target="_blank" rel="noopener noreferrer">Render.com</a> using
                     the free tier, which may limit features like image uploads due to resource constraints. The database is hosted on{' '}
                     <a href="https://www.mongodb.com/atlas" target="_blank" rel="noopener noreferrer">MongoDB Atlas</a> for cloud-based storage.
-                    The frontend is built with React and styled with Tailwind CSS, providing a responsive user interface.
+                    The frontend is built with React and providing a responsive user interface.
                 </p>
                 <p>
                     This project was developed by{' '}
